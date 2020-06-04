@@ -10,4 +10,4 @@ Drawings must be a single loop. If the drawing is not a loop, the program will c
 To start a new drawing, just start drawing on the right side and the previous drawing will disappear. Be careful not to start a new drawing if you are still viewing the current one.
 
   
-Created by Jack Boettcher, 2020.
+###### Created by Jack Boettcher, 2020.
